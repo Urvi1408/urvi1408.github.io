@@ -1,14 +1,14 @@
-🌐 Personal Portfolio Website
+##🌐 Personal Portfolio Website
 
-📌 Overview
+##📌 Overview
 This is my personal portfolio website built using HTML and CSS, designed to showcase my projects, skills, and web development journey.  
 The goal of this project was to create a clean, structured, and visually appealing interface similar to modern developer portfolios.
 
-🔗 Live Website
+##🔗 Live Website
 https://urvi1408.github.io/
 
 
-✨ Features
+##✨ Features
 - Clean and minimal UI design  
 - Dedicated sections for About,Skills, Eduction, Projects, and Contact  
 - Structured project showcase  
@@ -16,7 +16,7 @@ https://urvi1408.github.io/
 - Consistent typography and spacing  
 
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 - HTML5  
 - CSS3 (Flexbox)  
 
